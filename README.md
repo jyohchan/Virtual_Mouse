@@ -1,4 +1,4 @@
-The **Gesture Controlled Virtual Mouse** project you've described is an innovative way of enhancing human-computer interaction, enabling users to control various aspects of the computer through hand gestures and voice commands, eliminating the need for direct contact with the computer.
+The **Gesture Controlled Virtual Mouse** project described here is an innovative way of enhancing human-computer interaction, enabling users to control various aspects of the computer through hand gestures and voice commands, eliminating the need for direct contact with the computer.
 
 ### **Key Features:**
 1. **Gesture Recognition:**
@@ -41,6 +41,4 @@ The **Gesture Controlled Virtual Mouse** project you've described is an innovati
 ### **Target Platform:**
 - The project works specifically on **Windows**, utilizing tools compatible with the Windows operating system.
 
-This system offers a seamless, intuitive way of controlling a computer using both gestures and voice commands, making it an ideal solution for users who need hands-free interaction with their devices.
 
-Let me know if you need help with implementation or any other details regarding the project!
